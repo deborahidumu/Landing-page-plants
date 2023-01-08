@@ -1,1 +1,1 @@
-# Landing-page-plants
+# Landing page for plants
